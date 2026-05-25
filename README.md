@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### 🛠️ Languages and Tools
+![HTML5](https://shields.io)
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
+
+
 <!--
 **nyagaka5/nyagaka5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
