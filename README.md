@@ -10,3 +10,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my self in thSoftware Engeneering Space
+
+- ![My GitHub Stats](https://vercel.app)
