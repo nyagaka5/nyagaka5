@@ -5,7 +5,7 @@
 ![JavaScript](https://shields.io)
 ![Python](https://shields.io)
 
-**nyagaka5/nyagaka5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi Welcome to the den
 
 Here are some ideas to get you started:
 
